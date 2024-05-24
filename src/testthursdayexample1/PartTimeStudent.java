@@ -10,6 +10,7 @@ package testthursdayexample1;
  */
 public class PartTimeStudent {
     private int sid;
+    private String name;
     
     
 }
