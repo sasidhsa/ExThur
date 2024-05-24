@@ -18,6 +18,7 @@ public class TestThursdayExample1 {
         //comment
         //tdte 23
         System.out.println("pull operation");
+        //frtch and merge
     }
     
 }
