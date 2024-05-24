@@ -19,6 +19,7 @@ public class TestThursdayExample1 {
         //tdte 23
         System.out.println("pull operation");
         //frtch and merge
+        //today ice1
     }
     
 }
